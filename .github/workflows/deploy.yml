@@ -3,7 +3,8 @@
 #
 #region content
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: push
+run-name: push
 
 on:
   # Runs on pushes targeting the default branch
